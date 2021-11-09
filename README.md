@@ -1,5 +1,5 @@
 <eat> Yuumm 🍔 </eat>
-<code> Yuupp 👨‍💻 </code>
+<coding> Yuupp 👨‍💻 </coding>
 <sleep> Yuuhh 😴 </sleep>
 <repeat> YYEEAAHH ❤️ </SLEEP>
 
