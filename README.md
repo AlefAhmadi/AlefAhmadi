@@ -1,7 +1,4 @@
-<eat> Yuumm 🍔 </eat>
-<coding> Yuupp 👨‍💻 </coding>
-<sleep> Yuuhh 😴 </sleep>
-<repeat> YYEEAAHH ❤️ </SLEEP>
+
 
 <!---
 AlefAhmadi/AlefAhmadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
